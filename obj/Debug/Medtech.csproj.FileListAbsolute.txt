@@ -1,0 +1,12 @@
+C:\Games\Projects\Medtech\bin\Debug\Medtech.exe.config
+C:\Games\Projects\Medtech\bin\Debug\Medtech.exe
+C:\Games\Projects\Medtech\bin\Debug\Medtech.pdb
+C:\Games\Projects\Medtech\obj\Debug\Medtech.csproj.AssemblyReference.cache
+C:\Games\Projects\Medtech\obj\Debug\Medtech.csproj.SuggestedBindingRedirects.cache
+C:\Games\Projects\Medtech\obj\Debug\Medtech.Form1.resources
+C:\Games\Projects\Medtech\obj\Debug\Medtech.Form2.resources
+C:\Games\Projects\Medtech\obj\Debug\Medtech.Properties.Resources.resources
+C:\Games\Projects\Medtech\obj\Debug\Medtech.csproj.GenerateResource.cache
+C:\Games\Projects\Medtech\obj\Debug\Medtech.csproj.CoreCompileInputs.cache
+C:\Games\Projects\Medtech\obj\Debug\Medtech.exe
+C:\Games\Projects\Medtech\obj\Debug\Medtech.pdb
