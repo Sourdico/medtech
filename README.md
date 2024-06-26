@@ -15,7 +15,7 @@ Medicare is a desktop application developed in C# that efficiently manages patie
 
 ### Installation
 1. Clone the repo
-2. Open the project in your preferred C# IDE.
+2. Open the project in your preferred C# IDE. The preferred choice is Visual Studio.
 3. Build and run the application.
 
 ## Usage
